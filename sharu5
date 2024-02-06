@@ -1,0 +1,12 @@
+{
+    "name": "sreevani1/sreevani2",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sree vani",
+            "email": "sree@example.com"
+        }
+    ],
+    "require": {}
+}
+
